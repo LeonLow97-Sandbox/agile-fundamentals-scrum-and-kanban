@@ -1,4 +1,4 @@
-# What is Agile?
+# Understanding Agile
 
 ## 4 Values
 
