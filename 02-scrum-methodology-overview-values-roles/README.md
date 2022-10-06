@@ -6,7 +6,7 @@
 - Inspection, Adaption and Transparency.
 - Sprint (anywhere from 1-4 weeks)
   - get it production-ready by the end of the sprint for customer.
-  - Planning, developing, testing and reviewing of a working unit of software is completed with this time box.
+  - Planning, developing, testing and reviewing of a **working unit of software** is completed with this time box.
 - Scrum is an Agile way of developing software of any project.
 - Scrum is more of a framework than a methodology or process.
 - Scrum recommends a self-organizing and cross-functional team.
@@ -75,7 +75,8 @@
 
 - Role of a Scrum Master
 
-  - Daily standup (what you did yesterday, what are you going to do today, and any impediments?)
+  - Daily standup 
+    - what you did yesterday, what are you going to do today, and any impediments?
   - Are we in track to meet our sprint goal?
   - Sprint planning, retrospective, sprint review
   - retrospective

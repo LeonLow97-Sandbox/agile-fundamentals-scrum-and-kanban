@@ -46,5 +46,7 @@
 - Backlog grooming is a regular session where backlog items are discussed, reviewed, and prioritized by product managers, product owners, and the rest of the team. - The primary goal of backlog grooming is to keep the backlog up-to-date and ensure that backlog items are prepared for upcoming sprints.
 - Prepare for your next sprint.
 - Adding more details to the backlog user stories.
+- Good to conduct backlog grooming sessions two to three days before sprint cycle completion.
+- It helps track the team's progress to see if they would need another sprint cycle to complete what they are already working on.
 
 
